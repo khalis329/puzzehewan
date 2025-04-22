@@ -16,7 +16,7 @@ Dengan bermain puzzle ini, siswa diharapkan dapat:
 
 ---
 
-## 🐾 Daftar Puzzle Hewan
+## 🐾 Link Puzzle Hewan
 
 | No | Nama Hewan      https://puzzel.org/id/jigsaw/play?p=-OOQsLhrdC7tUSwgeqfZ
 > 📌 Catatan: Gunakan perangkat dengan layar cukup besar untuk pengalaman terbaik.
