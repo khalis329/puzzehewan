@@ -1,5 +1,3 @@
- 🧩 Puzzle Jigsaw Hewan – Kelas 2 SD
-
 Selamat datang di proyek **Puzzle Jigsaw Hewan**!  
 Proyek ini dirancang khusus untuk siswa kelas 2 Sekolah Dasar guna mengenal berbagai jenis hewan sambil melatih keterampilan motorik halus, logika, dan konsentrasi melalui permainan **jigsaw puzzle interaktif**.
 
